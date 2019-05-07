@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories
+Allow: /tags/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://zone.feharry.com/sitemap.xml
+Sitemap: https://zone.feharry.com/baidusitemap.xml
+Sitemap: https://HarrylXue.coding.me/sitemap.xml
+Sitemap: https://HarrylXue.coding.me/baidusitemap.xml
